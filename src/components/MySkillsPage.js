@@ -101,7 +101,7 @@ const AboutPage = () => {
               </li>
               <li>
                 <b>Frameworks:</b>
-                <p>React js, TailwindCSS, MaterialUI, Bootstrap</p>
+                <p>React js,Next js, Node js, Express js, TailwindCSS, MaterialUI, Bootstrap</p>
               </li>
               <li>
                 <b>CS Fundamentals:</b>

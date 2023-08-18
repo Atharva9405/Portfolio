@@ -78,12 +78,12 @@ const MySkillsPage = () => {
         <img src={astronaut} alt='spaceman' />
       </Spaceman>
       <Main>
-      Hey there , I am your friendly frontend aid .
+      Hey there , I am your friendly MERN-Stack aid .
       <br />
       With my roots coming from India , I create exquisite designs which are pleasing to the eyes.
       <br /> <br />
-      About my tool stack , my bag includes React js , material UI, TailwindCSS, bootstrap for the front end .
-      I also am familiar with c++/c so you catch an eye of me during competitive programming.
+      About my tool stack , my bag includes React js, Next js , material UI, TailwindCSS, bootstrap for the front end , and Node js, Express js for back end, also MongoDB for database management
+      I am also familiar with c++/c so you catch an eye of me during competitive programming.
       <br /> <br />
       Apart from the technical aspects , I drink tea in a gathering with friends. 
       Hope you will contact me soon and avail my services
