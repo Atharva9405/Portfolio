@@ -86,7 +86,7 @@ const AboutPage = () => {
         <ParticleComponent theme="light" />
         <Main>
           <Title>
-            <Develope width={40} height={40} /> Front-End Developer
+            <Develope width={40} height={40} />MERN-Stack Developer
           </Title>
           <Description>
             I value business or brand for which i'm creating, thus i enjoy
